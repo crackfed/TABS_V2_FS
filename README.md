@@ -1,5 +1,7 @@
 # TABS V2 FS
 
+![TABS V2 FS simulator interface showing statistics, loot, repair costs, and defender values](image.png)
+
 TABS V2 FS is a userscript for simulating combat before attacking in
 Command & Conquer: Tiberium Alliances. It includes community contributions and
 optimizations for AwSim, UI modifications, and an integrated formation saver.
